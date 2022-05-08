@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Can Canbolat</h1>
 <h3 align="center">A passionate backend developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **.NET**
-
 - 📫 How to reach me **can.canbolat12@gmail.com**
 
 <p align="left">
